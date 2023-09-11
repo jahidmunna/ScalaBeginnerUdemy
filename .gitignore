@@ -13,7 +13,7 @@ target/
 *.ipr
 *.idea
 *.bsp
-
+*.idea/*
 
 ### Eclipse ###
 .apt_generated
