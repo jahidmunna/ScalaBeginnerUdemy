@@ -1,0 +1,2 @@
+# ScalaBeginnerUdemy
+Language Only
